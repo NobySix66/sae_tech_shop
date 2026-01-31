@@ -1,0 +1,39 @@
+name: sae_tech_shop
+description: "SAE Tech Shop - Flutter 2026 Online Hardware Store"
+publish_to: 'none' # private project
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.5
+  url_launcher: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/cpu.png
+    - assets/images/motherboard.png
+    - assets/images/vga.png
+    - assets/images/hard_drive.png
+    - assets/images/ssd.png
+    - assets/images/ram.png
+    - assets/images/psu.png
+    - assets/images/casing.png
+    - assets/images/cooling_fan.png
+    - assets/images/banner1.png
+    - assets/images/banner2.png
+    - assets/images/banner3.png
+
+
