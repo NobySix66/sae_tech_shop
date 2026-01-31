@@ -33,7 +33,7 @@ class _MainScreenState extends State<MainScreen> {
       applicationIcon: const Icon(Icons.shopping_bag, color: Colors.teal, size: 40),
       children: const [
         Text(
-          'Aplikasi demo e-commerce hardware\n\n'
+          'Aplikasi e-commerce hardware komputer untuk tugas besar matakuliah mobile programming\n\n'
           'Dibuat oleh:\n'
           '• Erlangga Yuda Pratama\n'
           '• Shula Khalid Mauliawan\n'
